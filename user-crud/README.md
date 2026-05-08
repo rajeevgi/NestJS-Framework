@@ -1,6 +1,6 @@
 # 🚀 NestJS Basic User CRUD API
 
-A simple User CRUD API built using NestJS without database integration.
+A simple User CRUD API built using NestJS with database integration.
 This project demonstrates the core fundamentals of NestJS including:
 
 * Modules
